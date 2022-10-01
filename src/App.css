@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+input, button{
+  font-size: 22px;
+}
+img{
+  padding: 20px 40px 20px 40px;
+}
+
+h2{
+  font-size: 30px;
+  text-align: center;
+  padding: auto;
+}
+
+h3{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  padding: auto;
+}
